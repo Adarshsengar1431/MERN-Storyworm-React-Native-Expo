@@ -1,0 +1,5 @@
+.env
+node_modules
+
+# Command
+# openssl rand -base64 32 for JWT Token
